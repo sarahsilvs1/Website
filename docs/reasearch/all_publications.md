@@ -1,9 +1,5 @@
 # Publications
 
 ## 2023
-- [The effect of lactose intolerance on future lunar exploration. O'Brien et al., Nature 1234 2023](link_to_paper)
-- [Is the Moon made of cheese? O'Brien et al., Nature 1233 2023](link_to_paper)
-## 2022
-- [On ignoring experts within your field and claim everything is Aliens. O'Brien et al, "Science" 2022 ](link_to_paper)
-## 1995
-- ["Got your nose", a worrying rise in nasal robbery, O'Brien et al, 1st grade show and tell, 1995](link_to_paper)
+- [
+X-ray characterization of the pulsar PSR J1849-0001 and it’s wind nebula G32.64+0.53 associated with TeV sources detected by H.E.S.S., HAWC, Tibet Asγ, and LHAASO. Kim et al., The Astrophysical Journal 2023](https://iopscience.iop.org/article/10.3847/1538-4357/ad0ecd)
