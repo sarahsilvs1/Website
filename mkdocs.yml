@@ -1,5 +1,5 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Sarah Silverman
 # Change to your own site
 site_url: https://sarahs1.github.io/Website/ # must have the trailing slash
 site_author: Sarah Silverman (sarah.a.silverman@mail.mcgill.ca)
@@ -45,12 +45,12 @@ theme:
     - content.code.annotate 
     - content.code.copy
 
-extra_javascript:
+#extra_javascript:
   
   # For rendering latex
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+ # - javascripts/mathjax.js
+ # - https://polyfill.io/v3/polyfill.min.js?features=es6
+ # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 
 # For describing the navigation panel
@@ -59,6 +59,7 @@ nav:
   - About Me: about/index.md
   - Research: reasearch/index.md
   - Projects: projects/index.md
+  - Outreach: outreach/index.md
 
 # Extensions that we want to use
 markdown_extensions:
