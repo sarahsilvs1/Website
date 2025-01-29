@@ -2,11 +2,11 @@
 
 ![Columbia Grad](./media/IMG_7534.jpeg "Me"){align="center": style="height:700;width:700px"}
 
-I'm a recent graduate of Columbia University (just this past May!) where I studied both astrophysics and earth science. I'm currently a first-year MSc student in the Department of Earth and Planetary Sciences at McGill University, working under the co-supervision of Dr. Nicolas Cowan and Dr. Natalya Gomez. As a member of both the McGill Exoplanet Characterization Alliance and the Trottier Insitute for Research on Exoplanets, I'm using numerical simulations to study ice sheet formation and evolution on M-dwarf planets, including their implications for habitability.
+Welcome! My name is Sarah, and I'm currently a first year MSc student McGill University. Originally from just outside of New York City, I completed my undergraduate degree in astrophysics and earth science at Columbia University in May 2024. 
 
-In addition to research, I'm super passionate about [scientific outreach](../outreach/index.md)! I especially enjoyed working as an elementary school math tutor in a Columbia-led afterschool program, and I'm excited to continue outreach during her my time in Montreal.
+I have always been drawn to telling stories and making people laugh, and I hope to leverage this passion to make science more engaging and approachable for a general audience. I not only want to be a researcher who advances knowledge within the scientific community, but one who leverages her position to teach and inspire others. 
 
-# Other interests
-## Comedy, Storytelling, and Improve
+# Interests beyond research!
+- [Scientific outreach](../outreach/index.md)
 - [Comedy, Storytelling, and Improv](./Comedy.md)
-- [Travel](./Traveling.md)
+- [Travel](./TravelingtheWorld.md)
