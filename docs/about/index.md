@@ -7,9 +7,6 @@ I'm a recent graduate of Columbia University (just this past May!) where I studi
 In addition to research, I'm super passionate about [scientific outreach](../outreach/index.md)! I especially enjoyed working as an elementary school math tutor in a Columbia-led afterschool program, and I'm excited to continue outreach during her my time in Montreal.
 
 # Other interests
+## Comedy, Storytelling, and Improve
 - [Comedy, Storytelling, and Improv](./Comedy.md)
-
-# CV
-
-<!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/Sarah_Silverman_CV.pdf">
+- [Travel](./Traveling.md)
