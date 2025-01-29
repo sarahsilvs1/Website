@@ -12,7 +12,7 @@ copyright: > # should remain a link to the original theme
 
 
 theme:
-    name: material
+    name: landing
     palette:
       # Palette toggle for light mode
       - scheme: default
@@ -57,7 +57,7 @@ theme:
 nav:
   - Home: index.md
   - About Me: about/index.md
-  - Research: reasearch/index.md
+  - Research: research/index.md
   - Projects: projects/index.md
   - Outreach: outreach/index.md
 
@@ -74,4 +74,3 @@ plugins:
     # Using jupyter notebook  
     - mkdocs-jupyter:
           theme: default
-

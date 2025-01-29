@@ -1,12 +1,23 @@
-# Welcome to My Website!
+<!--
+Hi everyone! I'm a first year  Master's student at McGill University in the Department of Earth and Planetary Sciences and the Trottier Space Institute co-supervised by Nic Cowan and Natalya Gomez. I'm currently using numerical simulations to study ice sheet formation and evolution on Earth-like exoplanets, including their implications for habitability. 
 
-
-Hi everyone! I'm a current master's student at McGill University, studying the nature of Earth-like exoplanets around M-dwarf stars. If you'd like to learn more [about me](./about/index.md), you can find an introduction to [my research](./reasearch/index.md) and some info on some [recent projects](./projects/index.md).
+Click [here](./about/index.md) to learn more about me. You can also find an introduction to my [research](./research/index.md) and my [CV](./Sarah_Silverman_CV.pdf).
 
 Always looking to connect! Email me at sarah.a.silverman@mail.mcgill.ca
 
-![Me](./media/IMG_1543.jpeg "Me"){align="left": style="height:400;width:400px"}
-![Me](./media/DB_04242024_046.JPG "Mrin, Aid, me"){align="right": style="height:400;width:400px"}
-![Me](./media/cbe8a7ba-4e10-49f5-8ba9-391b44ebc188.jpg "Mrin, Aid, me"){align="left": style="height:400;width:400px"}
-![Me](./media/IMG_6585.jpeg"Nicole and Me"){align='left': style="height:400;width:400px"}
-![Me](./media/IMG_9341.jpeg "eclipse"){align="left": style="height:300;width:300px"}
+![Me](./media/me2.jpeg "Me"){align="left": style="height:600;width:600px"}
+
+-->
+
+
+<div style="display: flex; align-items: center;">
+  <img src="./media/IMG_1543.jpeg" alt="Me" style="height: 300px; width: 300px; margin-right: 20px;">
+  <div>
+    <p>Hi everyone! I'm a first-year Master's student at McGill University in the Department of Earth and Planetary Sciences and the Trottier Space Institute co-supervised by Nic Cowan and Natalya Gomez. I'm currently using numerical simulations to study ice sheet formation and evolution on Earth-like exoplanets, including their implications for habitability.</p>
+    <p>Click <a href="./about/index.md">here</a> to learn more about me. You can also find an introduction to my <a href="./research/index.md">research</a> and my <a href="./Sarah_Silverman_CV.pdf">CV</a>.</p>
+    <p>Always looking to connect! Email me at <a href="mailto:sarah.a.silverman@mail.mcgill.ca">sarah.a.silverman@mail.mcgill.ca</a></p>
+  </div>
+</div>
+
+
+## Affiliations
