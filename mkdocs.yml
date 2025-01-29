@@ -13,6 +13,23 @@ copyright: > # should remain a link to the original theme
 
 theme:
     name: landing
+    logo: media/IMG_1543.jpeg
+    avatar: media/IMG_1543.jpeg
+    favicon: media/blue.jpg
+    avatar_size: 20rem
+    round_avatar: False
+    tagline: |
+      she/her
+    background_gradient_colors: 
+      - color-mix(in srgb, var(--crust) 100%, transparent)
+      - color-mix(in srgb, var(--base) 80%, transparent)
+# style options
+    header_layout:
+      - title
+    #  - avatar
+      - tagline
+    #  - socials
+
     palette:
       # Palette toggle for light mode
       - scheme: default
@@ -24,6 +41,7 @@ theme:
         toggle:
           icon: material/brightness-7 
           name: Switch to dark mode
+     
 
       # Palette toggle for dark mode
       - scheme: slate
