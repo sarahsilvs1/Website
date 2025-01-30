@@ -96,11 +96,13 @@
         background: fixed center/cover var(--base);
         
         
+        background-image: url(media/space.jpeg);
+        
       }
       #background-gradient {
         background: linear-gradient(
           45deg, 
-          color-mix(in srgb, var(--crust) 100%, transparent), color-mix(in srgb, var(--base) 80%, transparent)
+          color-mix(in srgb, var(--mantle) 80%, transparent), transparent, color-mix(in srgb, var(--crust) 20%, transparent)
         );
       }
       content#content {
