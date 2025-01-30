@@ -20,7 +20,7 @@ theme:
     round_avatar: False
     tagline: |
       she/her
-    background_image: media/space.jpeg
+    background_image: media/blue.jpg
 
 # style options
     header_layout:
