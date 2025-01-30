@@ -20,9 +20,8 @@ theme:
     round_avatar: False
     tagline: |
       she/her
-    background_gradient_colors: 
-      - color-mix(in srgb, var(--crust) 100%, transparent)
-      - color-mix(in srgb, var(--base) 80%, transparent)
+    background_image: media/space.jpeg
+
 # style options
     header_layout:
       - title
